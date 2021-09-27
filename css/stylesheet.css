@@ -1,0 +1,42 @@
+
+body{
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Ruda', sans-serif;
+
+}
+
+#header-nav{
+  background-color:fff;
+  border-radius:0;
+  border:0;
+  color:fff;
+}
+
+  .navbar-nav {
+    text-align: center;
+    color:fff;
+}
+section{
+  margin-top:30px;
+}
+#chicken{
+  background-color: #ffe6cc;
+}
+
+#beef{
+  background-color:#ff9999
+;
+}
+
+#sushie{
+  background-color:#cce0ff;
+}
+
+
+@media screen and (min-width: 768px) {    
+   .navbar-collapse.collapse {
+        display: none!important;
+    }
+}
+
+
